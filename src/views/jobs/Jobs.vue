@@ -36,4 +36,7 @@ export default {
 .jobs a{
     text-decoration: none;
 }
+.jobs:hover{
+    background-color: rgb(187, 184, 184);;
+}
 </style>
